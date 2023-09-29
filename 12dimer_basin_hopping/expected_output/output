@@ -1,1 +1,4391 @@
-
+lammps_interface> COMPUTE after extract pe is    -0.7384647080    
+ start of which_move, J1:            1
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:            2
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:            3
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:            4
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:            5
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:            6
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:            7
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:            8
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:            9
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           10
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           11
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           12
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           13
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           14
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           15
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           16
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           17
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           18
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           19
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           20
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           21
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           22
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           23
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           24
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           25
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           26
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           27
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           28
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           29
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           30
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           31
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           32
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           33
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           34
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           35
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           36
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           37
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           38
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           39
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           40
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           41
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           42
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           43
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           44
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           45
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           46
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           47
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           48
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           49
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           50
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           51
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           52
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           53
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           54
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           55
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           56
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           57
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           58
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           59
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           60
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           61
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           62
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           63
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           64
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           65
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           66
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           67
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           68
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           69
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           70
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           71
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           72
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           73
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           74
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           75
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           76
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           77
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           78
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           79
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           80
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           81
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           82
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           83
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           84
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           85
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           86
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           87
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           88
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           89
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           90
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           91
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           92
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           93
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           94
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           95
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           96
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           97
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           98
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:           99
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          100
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          101
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          102
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          103
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          104
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          105
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          106
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          107
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          108
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          109
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          110
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          111
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          112
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          113
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          114
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          115
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          116
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          117
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          118
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          119
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          120
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          121
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          122
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          123
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          124
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          125
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          126
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          127
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          128
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          129
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          130
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          131
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          132
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          133
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          134
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          135
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          136
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          137
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          138
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          139
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          140
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          141
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          142
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          143
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          144
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          145
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          146
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          147
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          148
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          149
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          150
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          151
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          152
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          153
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          154
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          155
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          156
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          157
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          158
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          159
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          160
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          161
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          162
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          163
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          164
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          165
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          166
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          167
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          168
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          169
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          170
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          171
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          172
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          173
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          174
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          175
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          176
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          177
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          178
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          179
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          180
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          181
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          182
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          183
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          184
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          185
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          186
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          187
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          188
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          189
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          190
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          191
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          192
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          193
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          194
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          195
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          196
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          197
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          198
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          199
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          200
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          201
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          202
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          203
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          204
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          205
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          206
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          207
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          208
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          209
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          210
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          211
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          212
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          213
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          214
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          215
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          216
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          217
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          218
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          219
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          220
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          221
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          222
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          223
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          224
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          225
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          226
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          227
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          228
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          229
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          230
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          231
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          232
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          233
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          234
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          235
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          236
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          237
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          238
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          239
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          240
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          241
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          242
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          243
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          244
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          245
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          246
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          247
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          248
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          249
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          250
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          251
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          252
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          253
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          254
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          255
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          256
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          257
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          258
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          259
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          260
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          261
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          262
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          263
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          264
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          265
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          266
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          267
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          268
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          269
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          270
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          271
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          272
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          273
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          274
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          275
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          276
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          277
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          278
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          279
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          280
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          281
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          282
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          283
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          284
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          285
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          286
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          287
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          288
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          289
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          290
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          291
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          292
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          293
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          294
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          295
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          296
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          297
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          298
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          299
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          300
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          301
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          302
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          303
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          304
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          305
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          306
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          307
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          308
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          309
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          310
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          311
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          312
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          313
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          314
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          315
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          316
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          317
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          318
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          319
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          320
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          321
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          322
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          323
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          324
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          325
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          326
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          327
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          328
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          329
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          330
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          331
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          332
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          333
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          334
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          335
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          336
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          337
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          338
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          339
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          340
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          341
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          342
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          343
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          344
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          345
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          346
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          347
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          348
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          349
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          350
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          351
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          352
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          353
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          354
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          355
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          356
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          357
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          358
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          359
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          360
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          361
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          362
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          363
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          364
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          365
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          366
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          367
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          368
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          369
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          370
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          371
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          372
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          373
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          374
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          375
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          376
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          377
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          378
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          379
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          380
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          381
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          382
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          383
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          384
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          385
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          386
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          387
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          388
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          389
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          390
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          391
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          392
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          393
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          394
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          395
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          396
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          397
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          398
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          399
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          400
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          401
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          402
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          403
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          404
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          405
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          406
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          407
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          408
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          409
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          410
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          411
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          412
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          413
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          414
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          415
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          416
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          417
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          418
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          419
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          420
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          421
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          422
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          423
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          424
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          425
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          426
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          427
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          428
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          429
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          430
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          431
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          432
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          433
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          434
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          435
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          436
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          437
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          438
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          439
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          440
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          441
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          442
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          443
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          444
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          445
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          446
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          447
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          448
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          449
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          450
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          451
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          452
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          453
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          454
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          455
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          456
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          457
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          458
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          459
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          460
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          461
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          462
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          463
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          464
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          465
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          466
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          467
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          468
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          469
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          470
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          471
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          472
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          473
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          474
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          475
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          476
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          477
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          478
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          479
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          480
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          481
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          482
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          483
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          484
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          485
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          486
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          487
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          488
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          489
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          490
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          491
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          492
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          493
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          494
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          495
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          496
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          497
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          498
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          499
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          500
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          501
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          502
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          503
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          504
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          505
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          506
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          507
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          508
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          509
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          510
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          511
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          512
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          513
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          514
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          515
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          516
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          517
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          518
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          519
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          520
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          521
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          522
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          523
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          524
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          525
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          526
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          527
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          528
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          529
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          530
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          531
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          532
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          533
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          534
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          535
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          536
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          537
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          538
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          539
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          540
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          541
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          542
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          543
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          544
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          545
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          546
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          547
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          548
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          549
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          550
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          551
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          552
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          553
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          554
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          555
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          556
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          557
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          558
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          559
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          560
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          561
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          562
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          563
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          564
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          565
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          566
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          567
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          568
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          569
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          570
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          571
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          572
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          573
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          574
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          575
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          576
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          577
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          578
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          579
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          580
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          581
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          582
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          583
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          584
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          585
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          586
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          587
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          588
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          589
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          590
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          591
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          592
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          593
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          594
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          595
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          596
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          597
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          598
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          599
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          600
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          601
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          602
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          603
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          604
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          605
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          606
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          607
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          608
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          609
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          610
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          611
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          612
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          613
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          614
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          615
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          616
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          617
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          618
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          619
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          620
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          621
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          622
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          623
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          624
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          625
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          626
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          627
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          628
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          629
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          630
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          631
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          632
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          633
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          634
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          635
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          636
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          637
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          638
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          639
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          640
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          641
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          642
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          643
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          644
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          645
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          646
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          647
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          648
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          649
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          650
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          651
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          652
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          653
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          654
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          655
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          656
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          657
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          658
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          659
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          660
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          661
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          662
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          663
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          664
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          665
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          666
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          667
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          668
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          669
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          670
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          671
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          672
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          673
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          674
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          675
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          676
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          677
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          678
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          679
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          680
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          681
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          682
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          683
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          684
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          685
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          686
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          687
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          688
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          689
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          690
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          691
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          692
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          693
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          694
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          695
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          696
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          697
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          698
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          699
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          700
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          701
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          702
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          703
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          704
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          705
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          706
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          707
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          708
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          709
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          710
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          711
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          712
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          713
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          714
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          715
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          716
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          717
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          718
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          719
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          720
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          721
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          722
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          723
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          724
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          725
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          726
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          727
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          728
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          729
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          730
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          731
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          732
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          733
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          734
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          735
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          736
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          737
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          738
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          739
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          740
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          741
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          742
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          743
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          744
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          745
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          746
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          747
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          748
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          749
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          750
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          751
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          752
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          753
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          754
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          755
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          756
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          757
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          758
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          759
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          760
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          761
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          762
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          763
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          764
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          765
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          766
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          767
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          768
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          769
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          770
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          771
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          772
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          773
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          774
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          775
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          776
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          777
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          778
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          779
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          780
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          781
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          782
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          783
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          784
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          785
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          786
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          787
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          788
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          789
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          790
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          791
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          792
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          793
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          794
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          795
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          796
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          797
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          798
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          799
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          800
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          801
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          802
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          803
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          804
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          805
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          806
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          807
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          808
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          809
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          810
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          811
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          812
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          813
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          814
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          815
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          816
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          817
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          818
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          819
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          820
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          821
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          822
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          823
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          824
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          825
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          826
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          827
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          828
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          829
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          830
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          831
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          832
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          833
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          834
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          835
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          836
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          837
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          838
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          839
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          840
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          841
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          842
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          843
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          844
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          845
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          846
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          847
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          848
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          849
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          850
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          851
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          852
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          853
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          854
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          855
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          856
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          857
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          858
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          859
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          860
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          861
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          862
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          863
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          864
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          865
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          866
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          867
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          868
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          869
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          870
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          871
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          872
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          873
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          874
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          875
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          876
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          877
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          878
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          879
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          880
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          881
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          882
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          883
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          884
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          885
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          886
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          887
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          888
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          889
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          890
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          891
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          892
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          893
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          894
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          895
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          896
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          897
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          898
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          899
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          900
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          901
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          902
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          903
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          904
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          905
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          906
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          907
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          908
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          909
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          910
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          911
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          912
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          913
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          914
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          915
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          916
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          917
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          918
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          919
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          920
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          921
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          922
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          923
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          924
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          925
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          926
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          927
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          928
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          929
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          930
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          931
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          932
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          933
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          934
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          935
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          936
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          937
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          938
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          939
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          940
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          941
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          942
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          943
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          944
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          945
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          946
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          947
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          948
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          949
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          950
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          951
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          952
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          953
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          954
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          955
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          956
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          957
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          958
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          959
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          960
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          961
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          962
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          963
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          964
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          965
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          966
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          967
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          968
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          969
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          970
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          971
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          972
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          973
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          974
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          975
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          976
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          977
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          978
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          979
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          980
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          981
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          982
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          983
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          984
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          985
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          986
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          987
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          988
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          989
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          990
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          991
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          992
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          993
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          994
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          995
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          996
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          997
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          998
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:          999
+ reset active modes
+ before select move
+ after select move
+ start of which_move, J1:         1000
+ reset active modes
+ before select move
+ after select move
+t=      824.5
+ Qu        711 E=    -10.5113470737831     steps=   75 RMS= 0.84203E-04 Markov E=    -11.1509090806787     t=      824.7
+ Qu        712 E=    -11.1475386170437     steps=   78 RMS= 0.71899E-04 Markov E=    -11.1509090806787     t=      824.9
+ Qu        713 E=    -11.1509090950983     steps=   89 RMS= 0.68954E-04 Markov E=    -11.1509090806787     t=      825.1
+ Qu        714 E=    -11.1509090841539     steps=   88 RMS= 0.84602E-04 Markov E=    -11.1509090950983     t=      825.3
+ Qu        715 E=    -11.1509091333299     steps=   76 RMS= 0.42761E-04 Markov E=    -11.1509090841539     t=      825.4
+ Qu        716 E=    -11.1509090319838     steps=   84 RMS= 0.89453E-04 Markov E=    -11.1509091333299     t=      825.6
+ Qu        717 E=    -11.1509090779357     steps=   74 RMS= 0.99656E-04 Markov E=    -11.1509091333299     t=      825.8
+ Qu        718 E=    -11.1509090998958     steps=   65 RMS= 0.52277E-04 Markov E=    -11.1509090779357     t=      825.9
+ Qu        719 E=    -11.1475387284424     steps=  100 RMS= 0.88295E-04 Markov E=    -11.1509090998958     t=      826.1
+quench>  WARNING - compressed quench     720  did not converge
+quench> Comp Q     720 energy=        0.1877623579 steps= 3000 RMS force=      0.0585199
+ Qu        720 E=    -11.1509090993525     steps=   76 RMS= 0.70256E-04 Markov E=    -11.1509090998958     t=      837.6
+gsaveit> putting this minimum into the list at position       2 EREAL,QMIN=    -11.05300579        -10.78628811    
+ Qu        721 E=    -11.0530057896352     steps=   88 RMS= 0.58033E-04 Markov E=    -11.1509090993525     t=      837.9
+ Qu        722 E=    -11.1475387471448     steps=   90 RMS= 0.38955E-04 Markov E=    -11.1509090993525     t=      838.1
+ Qu        723 E=    -11.1509091075813     steps=   72 RMS= 0.77304E-04 Markov E=    -11.1509090993525     t=      838.3
+ Qu        724 E=    -11.1509091104279     steps=   88 RMS= 0.79899E-04 Markov E=    -11.1509091075813     t=      838.5
+ Qu        725 E=    -11.1509091166493     steps=   73 RMS= 0.79097E-04 Markov E=    -11.1509091104279     t=      838.7
+ Qu        726 E=    -11.1509090935843     steps=   59 RMS= 0.67209E-04 Markov E=    -11.1509091166493     t=      838.9
+ Qu        727 E=    -11.1475387420061     steps=   78 RMS= 0.56477E-04 Markov E=    -11.1509090935843     t=      839.1
+ Qu        728 E=    -11.1509090218158     steps=   71 RMS= 0.84825E-04 Markov E=    -11.1509090935843     t=      839.3
+ Qu        729 E=    -11.1509090932858     steps=   75 RMS= 0.84304E-04 Markov E=    -11.1509090218158     t=      839.5
+ Qu        730 E=    -11.1509091179890     steps=  126 RMS= 0.85576E-04 Markov E=    -11.1509090932858     t=      839.8
+ Qu        731 E=    -11.1509091182513     steps=  146 RMS= 0.86830E-04 Markov E=    -11.1509091179890     t=      840.1
+ Qu        732 E=    -11.1509091294278     steps=   71 RMS= 0.45812E-04 Markov E=    -11.1509091182513     t=      840.2
+ Qu        733 E=    -11.1509091252294     steps=   68 RMS= 0.75667E-04 Markov E=    -11.1509091294278     t=      840.4
+ Qu        734 E=    -11.1509090781329     steps=   68 RMS= 0.84396E-04 Markov E=    -11.1509091252294     t=      840.5
+ Qu        735 E=    -11.1509091244730     steps=   64 RMS= 0.37896E-04 Markov E=    -11.1509090781329     t=      840.7
+ Qu        736 E=    -11.1509090912588     steps=  105 RMS= 0.70747E-04 Markov E=    -11.1509091244730     t=      841.0
+ Qu        737 E=    -11.1509089120686     steps=   80 RMS= 0.97143E-04 Markov E=    -11.1509090912588     t=      841.1
+ Qu        738 E=    -11.1509088830427     steps=   57 RMS= 0.60173E-04 Markov E=    -11.1509089120686     t=      841.3
+ Qu        739 E=    -10.7862881590235     steps=   81 RMS= 0.55081E-04 Markov E=    -11.1509088830427     t=      841.5
+quench>  WARNING - compressed quench     740  did not converge
+quench> Comp Q     740 energy=       42.2134436023 steps= 3000 RMS force=      0.5157000
+ Qu        740 E=    -10.6173080396956     steps=  111 RMS= 0.51329E-04 Markov E=    -11.1509088830427     t=      856.5
+ Qu        741 E=    -11.1475387103790     steps=   69 RMS= 0.54906E-04 Markov E=    -11.1509088830427     t=      856.7
+ Qu        742 E=    -11.1475386504637     steps=   72 RMS= 0.99293E-04 Markov E=    -11.1509088830427     t=      856.9
+ Qu        743 E=    -11.1509090727459     steps=   65 RMS= 0.83900E-04 Markov E=    -11.1509088830427     t=      857.0
+ Qu        744 E=    -11.1509090990634     steps=   90 RMS= 0.66686E-04 Markov E=    -11.1509090727459     t=      857.2
+ Qu        745 E=    -11.1509091276985     steps=   76 RMS= 0.42221E-04 Markov E=    -11.1509090990634     t=      857.3
+ Qu        746 E=    -11.1475386443228     steps=   69 RMS= 0.93205E-04 Markov E=    -11.1509091276985     t=      857.5
+ Qu        747 E=    -11.1475387320925     steps=  138 RMS= 0.99156E-04 Markov E=    -11.1509091276985     t=      857.8
+ Qu        748 E=    -11.1509091298230     steps=   67 RMS= 0.44788E-04 Markov E=    -11.1509091276985     t=      857.9
+ Qu        749 E=    -11.1509091087308     steps=   68 RMS= 0.67942E-04 Markov E=    -11.1509091298230     t=      858.1
+ Qu        750 E=    -11.1509091182315     steps=   71 RMS= 0.74081E-04 Markov E=    -11.1509091087308     t=      858.2
+Acceptance ratio for previous     50 steps=  0.6800  FAC=  1.0500
+ Qu        751 E=    -11.1509091178521     steps=   78 RMS= 0.79093E-04 Markov E=    -11.1509091182315     t=      858.4
+ Qu        752 E=    -11.1509090942432     steps=   63 RMS= 0.51097E-04 Markov E=    -11.1509091178521     t=      858.5
+ Qu        753 E=    -11.1509090177753     steps=   63 RMS= 0.95278E-04 Markov E=    -11.1509090942432     t=      858.6
+ Qu        754 E=    -11.1509091177179     steps=   67 RMS= 0.63595E-04 Markov E=    -11.1509090942432     t=      858.8
+ Qu        755 E=    -11.1509090879960     steps=   75 RMS= 0.92150E-04 Markov E=    -11.1509091177179     t=      858.9
+ Qu        756 E=    -10.7194860042132     steps=   66 RMS= 0.83711E-04 Markov E=    -11.1509090879960     t=      859.1
+ Qu        757 E=    -11.1509090435939     steps=   66 RMS= 0.82880E-04 Markov E=    -11.1509090879960     t=      859.3
+ Qu        758 E=    -11.1509090781263     steps=   67 RMS= 0.77863E-04 Markov E=    -11.1509090435939     t=      859.4
+ Qu        759 E=    -11.1509091244851     steps=   79 RMS= 0.61079E-04 Markov E=    -11.1509090781263     t=      859.6
+quench> Comp Q     760 energy=        0.4293436467 steps=  288 RMS force=      0.0000991
+ Qu        760 E=    -11.1509091058477     steps=   94 RMS= 0.80948E-04 Markov E=    -11.1509091244851     t=      861.6
+ Qu        761 E=    -11.1509091039356     steps=   88 RMS= 0.89873E-04 Markov E=    -11.1509091058477     t=      861.9
+ Qu        762 E=    -11.1509090826523     steps=   71 RMS= 0.63494E-04 Markov E=    -11.1509091039356     t=      862.1
+ Qu        763 E=    -11.1509090707518     steps=   73 RMS= 0.81237E-04 Markov E=    -11.1509090826523     t=      862.3
+ Qu        764 E=    -11.1509090955836     steps=   71 RMS= 0.81789E-04 Markov E=    -11.1509090707518     t=      862.6
+ Qu        765 E=    -11.1509091289283     steps=   80 RMS= 0.36950E-04 Markov E=    -11.1509090955836     t=      862.8
+ Qu        766 E=    -11.1509091184392     steps=   73 RMS= 0.60611E-04 Markov E=    -11.1509091289283     t=      863.0
+ Qu        767 E=    -11.1509091295089     steps=   66 RMS= 0.36403E-04 Markov E=    -11.1509091184392     t=      863.2
+ Qu        768 E=    -11.1509090541241     steps=   90 RMS= 0.98726E-04 Markov E=    -11.1509091295089     t=      863.5
+ Qu        769 E=    -11.1509089516533     steps=   80 RMS= 0.96670E-04 Markov E=    -11.1509090541241     t=      863.7
+ Qu        770 E=    -11.1509090654798     steps=   69 RMS= 0.95442E-04 Markov E=    -11.1509089516533     t=      863.9
+ Qu        771 E=    -11.1509090889090     steps=  123 RMS= 0.91951E-04 Markov E=    -11.1509090654798     t=      864.3
+ Qu        772 E=    -11.1509090886038     steps=   64 RMS= 0.78077E-04 Markov E=    -11.1509090889090     t=      864.5
+ Qu        773 E=    -11.1509091140335     steps=   90 RMS= 0.61990E-04 Markov E=    -11.1509090886038     t=      864.7
+ Qu        774 E=    -10.5719178922627     steps=  115 RMS= 0.24788E-04 Markov E=    -11.1509091140335     t=      865.0
+ Qu        775 E=    -11.1509091058592     steps=   84 RMS= 0.73188E-04 Markov E=    -11.1509091140335     t=      865.2
+ Qu        776 E=    -11.1509090798644     steps=   70 RMS= 0.75795E-04 Markov E=    -11.1509091058592     t=      865.4
+ Qu        777 E=    -11.1509090460870     steps=   63 RMS= 0.90835E-04 Markov E=    -11.1509090798644     t=      865.6
+ Qu        778 E=    -11.1509090268577     steps=   59 RMS= 0.55726E-04 Markov E=    -11.1509090460870     t=      865.8
+ Qu        779 E=    -11.1509091175194     steps=   75 RMS= 0.48467E-04 Markov E=    -11.1509090268577     t=      866.0
+quench>  WARNING - compressed quench     780  did not converge
+quench> Comp Q     780 energy=       50.0222457450 steps= 3000 RMS force=      1.6117100
+ Qu        780 E=    -10.6175528011385     steps=  203 RMS= 0.96390E-04 Markov E=    -11.1509091175194     t=      883.5
+ Qu        781 E=    -11.1509091197375     steps=   79 RMS= 0.55954E-04 Markov E=    -11.1509091175194     t=      883.7
+ Qu        782 E=    -11.1509091005705     steps=   65 RMS= 0.50337E-04 Markov E=    -11.1509091197375     t=      883.9
+ Qu        783 E=    -11.1509091014206     steps=  100 RMS= 0.67597E-04 Markov E=    -11.1509091005705     t=      884.2
+ Qu        784 E=    -11.1509090978898     steps=   98 RMS= 0.88201E-04 Markov E=    -11.1509091014206     t=      884.4
+ Qu        785 E=    -11.1509090886437     steps=   76 RMS= 0.79374E-04 Markov E=    -11.1509090978898     t=      884.7
+ Qu        786 E=    -10.5492388187812     steps=   77 RMS= 0.70941E-04 Markov E=    -11.1509090886437     t=      884.9
+ Qu        787 E=    -11.1509091076718     steps=   62 RMS= 0.78601E-04 Markov E=    -11.1509090886437     t=      885.1
+ Qu        788 E=    -11.1509091216346     steps=   80 RMS= 0.84388E-04 Markov E=    -11.1509091076718     t=      885.3
+ Qu        789 E=    -11.1509090953019     steps=   74 RMS= 0.94439E-04 Markov E=    -11.1509091216346     t=      885.5
+ Qu        790 E=    -11.1509090825349     steps=   65 RMS= 0.92237E-04 Markov E=    -11.1509090953019     t=      885.7
+ Qu        791 E=    -11.1475386773998     steps=   75 RMS= 0.98098E-04 Markov E=    -11.1509090825349     t=      886.0
+ Qu        792 E=    -11.1509091077568     steps=   73 RMS= 0.94033E-04 Markov E=    -11.1509090825349     t=      886.2
+ Qu        793 E=    -11.1509090864709     steps=   72 RMS= 0.76942E-04 Markov E=    -11.1509091077568     t=      886.4
+ Qu        794 E=    -11.1509090675063     steps=   78 RMS= 0.76910E-04 Markov E=    -11.1509090864709     t=      886.6
+ Qu        795 E=    -11.1509091182641     steps=   67 RMS= 0.44541E-04 Markov E=    -11.1509090675063     t=      886.7
+ Qu        796 E=    -11.1509091261042     steps=   80 RMS= 0.73895E-04 Markov E=    -11.1509091182641     t=      886.9
+ Qu        797 E=    -11.1475386981074     steps=   88 RMS= 0.62575E-04 Markov E=    -11.1509091261042     t=      887.2
+ Qu        798 E=    -11.1475386427998     steps=   85 RMS= 0.92106E-04 Markov E=    -11.1509091261042     t=      887.4
+ Qu        799 E=    -11.1475387411886     steps=   98 RMS= 0.55847E-04 Markov E=    -11.1509091261042     t=      887.7
+quench>  WARNING - compressed quench     800  did not converge
+quench> Comp Q     800 energy=       24.9160211898 steps= 3000 RMS force=      1.8970950
+ Qu        800 E=    -10.3483979593178     steps=  140 RMS= 0.57968E-04 Markov E=    -11.1509091261042     t=      903.3
+Acceptance ratio for previous     50 steps=  0.8000  FAC=  1.0500
+ Qu        801 E=    -11.0530056576926     steps=   90 RMS= 0.85213E-04 Markov E=    -11.1509091261042     t=      903.6
+ Qu        802 E=    -11.1509091098736     steps=   78 RMS= 0.54711E-04 Markov E=    -11.1509091261042     t=      903.7
+ Qu        803 E=    -11.1509090978030     steps=  101 RMS= 0.74983E-04 Markov E=    -11.1509091098736     t=      904.0
+ Qu        804 E=    -11.1509090777329     steps=   64 RMS= 0.89660E-04 Markov E=    -11.1509090978030     t=      904.2
+ Qu        805 E=    -11.1509090994090     steps=   71 RMS= 0.63438E-04 Markov E=    -11.1509090777329     t=      904.4
+ Qu        806 E=    -10.6505698568466     steps=  122 RMS= 0.87038E-04 Markov E=    -11.1509090994090     t=      904.7
+ Qu        807 E=    -10.7194861463050     steps=   72 RMS= 0.70103E-04 Markov E=    -11.1509090994090     t=      904.9
+ Qu        808 E=    -11.1509091070364     steps=  122 RMS= 0.73282E-04 Markov E=    -11.1509090994090     t=      905.2
+ Qu        809 E=    -11.1509090779672     steps=   69 RMS= 0.98976E-04 Markov E=    -11.1509091070364     t=      905.4
+ Qu        810 E=    -11.1509090587098     steps=   73 RMS= 0.79192E-04 Markov E=    -11.1509090779672     t=      905.6
+gsaveit> putting this minimum into the list at position       6 EREAL,QMIN=    -10.70849045        -10.69111204    
+ Qu        811 E=    -10.7084904535670     steps=   79 RMS= 0.68503E-04 Markov E=    -11.1509090587098     t=      905.8
+ Qu        812 E=    -11.1509091315914     steps=  120 RMS= 0.36534E-04 Markov E=    -11.1509090587098     t=      906.2
+ Qu        813 E=    -11.1509091153829     steps=   69 RMS= 0.49414E-04 Markov E=    -11.1509091315914     t=      906.4
+ Qu        814 E=    -11.1475387258076     steps=   93 RMS= 0.63548E-04 Markov E=    -11.1509091153829     t=      906.6
+ Qu        815 E=    -11.1509091270263     steps=   69 RMS= 0.83143E-04 Markov E=    -11.1509091153829     t=      906.8
+ Qu        816 E=    -11.1509090475507     steps=   70 RMS= 0.82729E-04 Markov E=    -11.1509091270263     t=      907.0
+ Qu        817 E=    -11.1509090972269     steps=   94 RMS= 0.88269E-04 Markov E=    -11.1509090475507     t=      907.2
+ Qu        818 E=    -11.1509087582161     steps=   79 RMS= 0.82437E-04 Markov E=    -11.1509090972269     t=      907.5
+ Qu        819 E=    -11.1475387292942     steps=   82 RMS= 0.88601E-04 Markov E=    -11.1509087582161     t=      907.7
+quench>  WARNING - compressed quench     820  did not converge
+quench> Comp Q     820 energy=        0.3422511508 steps= 3000 RMS force=      0.0118020
+ Qu        820 E=    -11.1509091084627     steps=   89 RMS= 0.81688E-04 Markov E=    -11.1509087582161     t=      924.9
+ Qu        821 E=    -11.1509090644357     steps=   69 RMS= 0.92789E-04 Markov E=    -11.1509091084627     t=      925.0
+ Qu        822 E=    -11.1475387393682     steps=   76 RMS= 0.35328E-04 Markov E=    -11.1509090644357     t=      925.2
+ Qu        823 E=    -11.1509090915971     steps=   81 RMS= 0.85195E-04 Markov E=    -11.1509090644357     t=      925.3
+ Qu        824 E=    -10.7194861757356     steps=   92 RMS= 0.49837E-04 Markov E=    -11.1509090915971     t=      925.6
+ Qu        825 E=    -11.1509091268756     steps=   79 RMS= 0.47171E-04 Markov E=    -11.1509090915971     t=      925.8
+ Qu        826 E=    -11.1509090736897     steps=   68 RMS= 0.91597E-04 Markov E=    -11.1509091268756     t=      925.9
+ Qu        827 E=    -11.1509091128378     steps=   65 RMS= 0.50082E-04 Markov E=    -11.1509090736897     t=      926.1
+ Qu        828 E=    -11.1475386474269     steps=   82 RMS= 0.96739E-04 Markov E=    -11.1509091128378     t=      926.3
+ Qu        829 E=    -11.1509091121743     steps=   83 RMS= 0.63113E-04 Markov E=    -11.1509091128378     t=      926.4
+ Qu        830 E=    -11.1509091332987     steps=   75 RMS= 0.45977E-04 Markov E=    -11.1509091121743     t=      926.6
+ Qu        831 E=    -11.1509091112081     steps=  112 RMS= 0.64127E-04 Markov E=    -11.1509091332987     t=      926.8
+ Qu        832 E=    -10.7336115592076     steps=   99 RMS= 0.58636E-04 Markov E=    -11.1509091112081     t=      927.1
+ Qu        833 E=    -10.7113399201601     steps=   94 RMS= 0.53616E-04 Markov E=    -11.1509091112081     t=      927.3
+ Qu        834 E=    -11.1509091163465     steps=   71 RMS= 0.55501E-04 Markov E=    -11.1509091112081     t=      927.5
+ Qu        835 E=    -11.1509091037179     steps=   70 RMS= 0.70083E-04 Markov E=    -11.1509091163465     t=      927.6
+ Qu        836 E=    -11.1509091177512     steps=  135 RMS= 0.64162E-04 Markov E=    -11.1509091037179     t=      927.9
+ Qu        837 E=    -11.1509091139018     steps=   67 RMS= 0.57110E-04 Markov E=    -11.1509091177512     t=      928.1
+ Qu        838 E=    -11.1509091324965     steps=   71 RMS= 0.59718E-04 Markov E=    -11.1509091139018     t=      928.2
+ Qu        839 E=    -11.1509090935874     steps=  131 RMS= 0.78864E-04 Markov E=    -11.1509091324965     t=      928.5
+quench>  WARNING - compressed quench     840  did not converge
+quench> Comp Q     840 energy=       -0.9477706562 steps= 3000 RMS force=      0.1138395
+ Qu        840 E=    -11.1509090754592     steps=   72 RMS= 0.74990E-04 Markov E=    -11.1509090935874     t=      945.7
+ Qu        841 E=    -10.7194861434910     steps=   84 RMS= 0.70312E-04 Markov E=    -11.1509090754592     t=      946.0
+ Qu        842 E=    -11.1509090501773     steps=   70 RMS= 0.91643E-04 Markov E=    -11.1509090754592     t=      946.1
+ Qu        843 E=    -11.1509090327003     steps=  163 RMS= 0.96317E-04 Markov E=    -11.1509090501773     t=      946.5
+ Qu        844 E=    -11.1509091130549     steps=   81 RMS= 0.61936E-04 Markov E=    -11.1509090327003     t=      946.7
+ Qu        845 E=    -11.1509091171859     steps=   74 RMS= 0.52926E-04 Markov E=    -11.1509091130549     t=      946.8
+ Qu        846 E=    -10.7084904573067     steps=   94 RMS= 0.68683E-04 Markov E=    -11.1509091171859     t=      947.1
+ Qu        847 E=    -11.1509091127349     steps=   90 RMS= 0.70144E-04 Markov E=    -11.1509091171859     t=      947.3
+ Qu        848 E=    -11.1509089807712     steps=   61 RMS= 0.94618E-04 Markov E=    -11.1509091127349     t=      947.4
+ Qu        849 E=    -11.1475387276770     steps=   89 RMS= 0.75629E-04 Markov E=    -11.1509089807712     t=      947.6
+ Qu        850 E=    -11.1509090782316     steps=   76 RMS= 0.94518E-04 Markov E=    -11.1509089807712     t=      947.8
+Acceptance ratio for previous     50 steps=  0.7200  FAC=  1.0500
+ Qu        851 E=    -11.1509091069394     steps=  114 RMS= 0.52143E-04 Markov E=    -11.1509090782316     t=      948.0
+ Qu        852 E=    -11.1509090599805     steps=   87 RMS= 0.94037E-04 Markov E=    -11.1509091069394     t=      948.2
+ Qu        853 E=    -11.1475387105367     steps=   93 RMS= 0.62172E-04 Markov E=    -11.1509090599805     t=      948.4
+ Qu        854 E=    -11.1509091222482     steps=   88 RMS= 0.43762E-04 Markov E=    -11.1509090599805     t=      948.6
+ Qu        855 E=    -11.1509091239688     steps=   74 RMS= 0.55120E-04 Markov E=    -11.1509091222482     t=      948.8
+ Qu        856 E=    -11.1509091232180     steps=   78 RMS= 0.53911E-04 Markov E=    -11.1509091239688     t=      949.0
+ Qu        857 E=    -11.1475387096083     steps=  113 RMS= 0.90926E-04 Markov E=    -11.1509091232180     t=      949.3
+ Qu        858 E=    -11.1509090795888     steps=   69 RMS= 0.84660E-04 Markov E=    -11.1509091232180     t=      949.4
+ Qu        859 E=    -11.1509091249413     steps=   67 RMS= 0.42353E-04 Markov E=    -11.1509090795888     t=      949.6
+quench>  WARNING - compressed quench     860  did not converge
+quench> Comp Q     860 energy=       -0.1558690216 steps= 3000 RMS force=      0.2553772
+ Qu        860 E=    -11.1509091165631     steps=   77 RMS= 0.62696E-04 Markov E=    -11.1509091249413     t=      965.1
+gsaveit> putting this minimum into the list at position      19 EREAL,QMIN=    -10.40156212        -10.35218387    
+ Qu        861 E=    -10.4015621165125     steps=   92 RMS= 0.92174E-04 Markov E=    -11.1509091165631     t=      965.4
+ Qu        862 E=    -11.1509090591446     steps=   81 RMS= 0.82131E-04 Markov E=    -11.1509091165631     t=      965.6
+ Qu        863 E=    -11.0530056695829     steps=   80 RMS= 0.95319E-04 Markov E=    -11.1509090591446     t=      965.8
+ Qu        864 E=    -11.1509091260900     steps=   66 RMS= 0.67052E-04 Markov E=    -11.1509090591446     t=      965.9
+ Qu        865 E=    -11.1509089958275     steps=   65 RMS= 0.98500E-04 Markov E=    -11.1509091260900     t=      966.1
+ Qu        866 E=    -11.1509090042620     steps=   87 RMS= 0.88580E-04 Markov E=    -11.1509089958275     t=      966.3
+ Qu        867 E=    -11.1509091203658     steps=   93 RMS= 0.84508E-04 Markov E=    -11.1509090042620     t=      966.5
+ Qu        868 E=    -11.1509090877405     steps=   65 RMS= 0.86868E-04 Markov E=    -11.1509091203658     t=      966.6
+ Qu        869 E=    -11.1509091163890     steps=   82 RMS= 0.88386E-04 Markov E=    -11.1509090877405     t=      966.8
+ Qu        870 E=    -11.1509091161629     steps=   69 RMS= 0.57239E-04 Markov E=    -11.1509091163890     t=      966.9
+ Qu        871 E=    -11.1509091245946     steps=   64 RMS= 0.72934E-04 Markov E=    -11.1509091161629     t=      967.1
+ Qu        872 E=    -11.1509091297863     steps=   86 RMS= 0.52706E-04 Markov E=    -11.1509091245946     t=      967.3
+ Qu        873 E=    -11.1509091034157     steps=  105 RMS= 0.83315E-04 Markov E=    -11.1509091297863     t=      967.5
+ Qu        874 E=    -11.1509091247140     steps=   78 RMS= 0.61432E-04 Markov E=    -11.1509091034157     t=      967.7
+ Qu        875 E=    -11.1509091109083     steps=   72 RMS= 0.63503E-04 Markov E=    -11.1509091247140     t=      967.9
+ Qu        876 E=    -11.1509091081157     steps=   84 RMS= 0.74839E-04 Markov E=    -11.1509091109083     t=      968.1
+ Qu        877 E=    -11.1509091231127     steps=   79 RMS= 0.90032E-04 Markov E=    -11.1509091081157     t=      968.2
+ Qu        878 E=    -11.1509090860427     steps=   89 RMS= 0.53344E-04 Markov E=    -11.1509091231127     t=      968.4
+ Qu        879 E=    -11.1509083748961     steps=   64 RMS= 0.94879E-04 Markov E=    -11.1509090860427     t=      968.6
+quench>  WARNING - compressed quench     880  did not converge
+quench> Comp Q     880 energy=       13.0680620331 steps= 3000 RMS force=      0.0742488
+ Qu        880 E=    -11.1509091152315     steps=  193 RMS= 0.96422E-04 Markov E=    -11.1509090860427     t=      983.9
+ Qu        881 E=    -11.1509090847035     steps=  100 RMS= 0.61878E-04 Markov E=    -11.1509091152315     t=      984.2
+ Qu        882 E=    -11.1509090979503     steps=   86 RMS= 0.67203E-04 Markov E=    -11.1509090847035     t=      984.4
+ Qu        883 E=    -11.1509090025633     steps=   67 RMS= 0.82145E-04 Markov E=    -11.1509090979503     t=      984.6
+ Qu        884 E=    -11.1509090972139     steps=   66 RMS= 0.76056E-04 Markov E=    -11.1509090025633     t=      984.8
+ Qu        885 E=    -11.1509091309769     steps=  110 RMS= 0.40161E-04 Markov E=    -11.1509090972139     t=      985.1
+ Qu        886 E=    -11.1509090529247     steps=   66 RMS= 0.82495E-04 Markov E=    -11.1509091309769     t=      985.3
+ Qu        887 E=    -11.1509091248952     steps=   80 RMS= 0.55867E-04 Markov E=    -11.1509090529247     t=      985.4
+ Qu        888 E=    -11.1509091152479     steps=   86 RMS= 0.74212E-04 Markov E=    -11.1509091248952     t=      985.7
+ Qu        889 E=    -11.1509090837914     steps=   97 RMS= 0.58798E-04 Markov E=    -11.1509091152479     t=      986.0
+ Qu        890 E=    -11.1509089583317     steps=   66 RMS= 0.93099E-04 Markov E=    -11.1509090837914     t=      986.2
+ Qu        891 E=    -11.1509090751713     steps=   64 RMS= 0.63614E-04 Markov E=    -11.1509089583317     t=      986.4
+ Qu        892 E=    -11.1509090444195     steps=   64 RMS= 0.75049E-04 Markov E=    -11.1509090751713     t=      986.5
+ Qu        893 E=    -11.1509090590041     steps=   83 RMS= 0.92902E-04 Markov E=    -11.1509090444195     t=      986.7
+ Qu        894 E=    -11.1509090614749     steps=   66 RMS= 0.88133E-04 Markov E=    -11.1509090590041     t=      986.9
+ Qu        895 E=    -10.7358469663392     steps=   90 RMS= 0.91136E-04 Markov E=    -11.1509090614749     t=      987.1
+ Qu        896 E=    -11.1475387205141     steps=   75 RMS= 0.87593E-04 Markov E=    -11.1509090614749     t=      987.3
+ Qu        897 E=    -11.1509090708038     steps=   66 RMS= 0.87606E-04 Markov E=    -11.1509090614749     t=      987.4
+ Qu        898 E=    -11.1509090990266     steps=   68 RMS= 0.99062E-04 Markov E=    -11.1509090708038     t=      987.6
+ Qu        899 E=    -11.1509089416622     steps=   62 RMS= 0.74432E-04 Markov E=    -11.1509090990266     t=      987.8
+quench>  WARNING - compressed quench     900  did not converge
+quench> Comp Q     900 energy=       -6.6847619012 steps= 3000 RMS force=      0.0722226
+ Qu        900 E=    -11.1475387261706     steps=   75 RMS= 0.56748E-04 Markov E=    -11.1509089416622     t=     1003.3
+Acceptance ratio for previous     50 steps=  0.8400  FAC=  1.0500
+ Qu        901 E=    -11.1509091256950     steps=  131 RMS= 0.40950E-04 Markov E=    -11.1509089416622     t=     1003.6
+ Qu        902 E=    -11.1509091289482     steps=   84 RMS= 0.35104E-04 Markov E=    -11.1509091256950     t=     1003.7
+ Qu        903 E=    -11.1509091003095     steps=  113 RMS= 0.72559E-04 Markov E=    -11.1509091289482     t=     1004.0
+ Qu        904 E=    -11.1475386913529     steps=   77 RMS= 0.55694E-04 Markov E=    -11.1509091003095     t=     1004.1
+ Qu        905 E=    -11.1509091078203     steps=   75 RMS= 0.68074E-04 Markov E=    -11.1509091003095     t=     1004.3
+ Qu        906 E=    -11.1509090418187     steps=   78 RMS= 0.89779E-04 Markov E=    -11.1509091078203     t=     1004.5
+ Qu        907 E=    -11.1509090919715     steps=   97 RMS= 0.86920E-04 Markov E=    -11.1509090418187     t=     1004.7
+ Qu        908 E=    -11.1509091214855     steps=   70 RMS= 0.46600E-04 Markov E=    -11.1509090919715     t=     1004.8
+ Qu        909 E=    -11.1509090801230     steps=   95 RMS= 0.80767E-04 Markov E=    -11.1509091214855     t=     1005.0
+ Qu        910 E=    -11.1509091057319     steps=   96 RMS= 0.79997E-04 Markov E=    -11.1509091214855     t=     1005.2
+ Qu        911 E=    -11.1509090906439     steps=   72 RMS= 0.88655E-04 Markov E=    -11.1509091057319     t=     1005.4
+ Qu        912 E=    -11.0530057912429     steps=   67 RMS= 0.50028E-04 Markov E=    -11.1509090906439     t=     1005.5
+ Qu        913 E=    -11.1509091035683     steps=   79 RMS= 0.76784E-04 Markov E=    -11.1509090906439     t=     1005.7
+ Qu        914 E=    -10.5822782231658     steps=  109 RMS= 0.83994E-04 Markov E=    -11.1509091035683     t=     1005.9
+ Qu        915 E=    -11.1509091006960     steps=   88 RMS= 0.85824E-04 Markov E=    -11.1509091035683     t=     1006.1
+ Qu        916 E=    -11.1509091220168     steps=   83 RMS= 0.43334E-04 Markov E=    -11.1509091006960     t=     1006.3
+ Qu        917 E=    -11.1509091091477     steps=   96 RMS= 0.85112E-04 Markov E=    -11.1509091220168     t=     1006.5
+ Qu        918 E=    -10.6982255223750     steps=  110 RMS= 0.96757E-04 Markov E=    -11.1509091091477     t=     1006.7
+ Qu        919 E=    -10.6768215246678     steps=   92 RMS= 0.99582E-04 Markov E=    -11.1509091091477     t=     1006.9
+quench>  WARNING - compressed quench     920  did not converge
+quench> Comp Q     920 energy=       -5.8958750252 steps= 3000 RMS force=      0.0451319
+ Qu        920 E=    -11.1475387198091     steps=   68 RMS= 0.59915E-04 Markov E=    -11.1509091091477     t=     1018.4
+ Qu        921 E=    -11.1475387393666     steps=  102 RMS= 0.54182E-04 Markov E=    -11.1509091091477     t=     1018.6
+ Qu        922 E=    -11.1509090974981     steps=   95 RMS= 0.90600E-04 Markov E=    -11.1509091091477     t=     1018.8
+ Qu        923 E=    -11.1509091267884     steps=   85 RMS= 0.47517E-04 Markov E=    -11.1509090974981     t=     1018.9
+ Qu        924 E=    -11.1475386901041     steps=   76 RMS= 0.76799E-04 Markov E=    -11.1509091267884     t=     1019.1
+ Qu        925 E=    -11.1509091091558     steps=   76 RMS= 0.68421E-04 Markov E=    -11.1509091267884     t=     1019.3
+ Qu        926 E=    -11.1509090744826     steps=   83 RMS= 0.86644E-04 Markov E=    -11.1509091091558     t=     1019.4
+ Qu        927 E=    -11.1509091204217     steps=   64 RMS= 0.90208E-04 Markov E=    -11.1509090744826     t=     1019.6
+ Qu        928 E=    -11.1509090829463     steps=  104 RMS= 0.97489E-04 Markov E=    -11.1509091204217     t=     1019.8
+ Qu        929 E=    -11.1509090625258     steps=   67 RMS= 0.97341E-04 Markov E=    -11.1509090829463     t=     1019.9
+ Qu        930 E=    -11.1475386620050     steps=  108 RMS= 0.95990E-04 Markov E=    -11.1509090625258     t=     1020.2
+ Qu        931 E=    -11.1509090979391     steps=   69 RMS= 0.97850E-04 Markov E=    -11.1509090625258     t=     1020.3
+ Qu        932 E=    -11.1475386246831     steps=   64 RMS= 0.99969E-04 Markov E=    -11.1509090979391     t=     1020.4
+ Qu        933 E=    -11.1509091201650     steps=   82 RMS= 0.49535E-04 Markov E=    -11.1509090979391     t=     1020.6
+ Qu        934 E=    -11.1509090837339     steps=   77 RMS= 0.93695E-04 Markov E=    -11.1509091201650     t=     1020.8
+ Qu        935 E=    -11.1509091185717     steps=   83 RMS= 0.71973E-04 Markov E=    -11.1509090837339     t=     1020.9
+ Qu        936 E=    -11.1509088890059     steps=   72 RMS= 0.78753E-04 Markov E=    -11.1509091185717     t=     1021.1
+ Qu        937 E=    -11.1509091129882     steps=   76 RMS= 0.90798E-04 Markov E=    -11.1509091185717     t=     1021.2
+ Qu        938 E=    -11.1475387227932     steps=   80 RMS= 0.65728E-04 Markov E=    -11.1509091129882     t=     1021.4
+ Qu        939 E=    -11.1509090851095     steps=   89 RMS= 0.74492E-04 Markov E=    -11.1509091129882     t=     1021.6
+quench>  WARNING - compressed quench     940  did not converge
+quench> Comp Q     940 energy=       10.4835562566 steps= 3000 RMS force=      0.0529395
+ Qu        940 E=    -10.4605201479676     steps=  120 RMS= 0.75281E-04 Markov E=    -11.1509090851095     t=     1035.1
+ Qu        941 E=    -11.1509091129688     steps=   67 RMS= 0.55208E-04 Markov E=    -11.1509090851095     t=     1035.3
+ Qu        942 E=    -11.1509090357527     steps=   68 RMS= 0.95574E-04 Markov E=    -11.1509091129688     t=     1035.4
+ Qu        943 E=    -11.1509090959549     steps=  115 RMS= 0.76023E-04 Markov E=    -11.1509090357527     t=     1035.7
+ Qu        944 E=    -11.1475387156831     steps=  105 RMS= 0.86721E-04 Markov E=    -11.1509090959549     t=     1035.9
+ Qu        945 E=    -11.1509091020250     steps=   84 RMS= 0.93448E-04 Markov E=    -11.1509090959549     t=     1036.1
+ Qu        946 E=    -11.1475387165059     steps=   95 RMS= 0.95694E-04 Markov E=    -11.1509091020250     t=     1036.3
+ Qu        947 E=    -11.1509090474726     steps=   81 RMS= 0.94792E-04 Markov E=    -11.1509091020250     t=     1036.4
+ Qu        948 E=    -11.1509090983805     steps=   66 RMS= 0.88835E-04 Markov E=    -11.1509090474726     t=     1036.6
+ Qu        949 E=    -11.1509090568745     steps=   73 RMS= 0.82613E-04 Markov E=    -11.1509090983805     t=     1036.7
+ Qu        950 E=    -11.1475387118229     steps=   90 RMS= 0.85738E-04 Markov E=    -11.1509090568745     t=     1036.9
+Acceptance ratio for previous     50 steps=  0.6600  FAC=  1.0500
+ Qu        951 E=    -11.1509091224721     steps=   91 RMS= 0.77949E-04 Markov E=    -11.1509090568745     t=     1037.1
+ Qu        952 E=    -11.1509091268082     steps=   77 RMS= 0.36307E-04 Markov E=    -11.1509091224721     t=     1037.2
+ Qu        953 E=    -11.1509091313810     steps=   90 RMS= 0.32161E-04 Markov E=    -11.1509091268082     t=     1037.4
+ Qu        954 E=    -11.1509091196231     steps=   77 RMS= 0.69871E-04 Markov E=    -11.1509091313810     t=     1037.6
+ Qu        955 E=    -11.1509091269220     steps=   99 RMS= 0.53335E-04 Markov E=    -11.1509091196231     t=     1037.8
+ Qu        956 E=    -11.1509091154001     steps=   83 RMS= 0.49705E-04 Markov E=    -11.1509091269220     t=     1038.0
+ Qu        957 E=    -11.1509090720302     steps=   85 RMS= 0.99286E-04 Markov E=    -11.1509091154001     t=     1038.2
+ Qu        958 E=    -11.1509091205832     steps=  101 RMS= 0.71635E-04 Markov E=    -11.1509090720302     t=     1038.3
+ Qu        959 E=    -11.1509091253871     steps=   72 RMS= 0.37719E-04 Markov E=    -11.1509091205832     t=     1038.5
+quench>  WARNING - compressed quench     960  did not converge
+quench> Comp Q     960 energy=        0.2604548732 steps= 3000 RMS force=      0.2500629
+ Qu        960 E=    -11.1509091347850     steps=   73 RMS= 0.26260E-04 Markov E=    -11.1509091253871     t=     1054.1
+ Qu        961 E=    -10.5492387257688     steps=   72 RMS= 0.59908E-04 Markov E=    -11.1509091347850     t=     1054.3
+ Qu        962 E=    -11.1509091112902     steps=   65 RMS= 0.77428E-04 Markov E=    -11.1509091347850     t=     1054.4
+ Qu        963 E=    -11.1509091057345     steps=   71 RMS= 0.64643E-04 Markov E=    -11.1509091112902     t=     1054.6
+ Qu        964 E=    -11.1509090624608     steps=   64 RMS= 0.77863E-04 Markov E=    -11.1509091057345     t=     1054.7
+ Qu        965 E=    -11.1509091243691     steps=   81 RMS= 0.40258E-04 Markov E=    -11.1509090624608     t=     1054.9
+ Qu        966 E=    -11.1475387285779     steps=   81 RMS= 0.67668E-04 Markov E=    -11.1509091243691     t=     1055.1
+ Qu        967 E=    -11.1509091190522     steps=   66 RMS= 0.65360E-04 Markov E=    -11.1509091243691     t=     1055.2
+ Qu        968 E=    -11.1509090580316     steps=   62 RMS= 0.76038E-04 Markov E=    -11.1509091190522     t=     1055.4
+ Qu        969 E=    -11.1509091027972     steps=   68 RMS= 0.91762E-04 Markov E=    -11.1509090580316     t=     1055.6
+ Qu        970 E=    -11.1509091156263     steps=  109 RMS= 0.93768E-04 Markov E=    -11.1509091027972     t=     1055.8
+ Qu        971 E=    -11.1509091199980     steps=   83 RMS= 0.51553E-04 Markov E=    -11.1509091156263     t=     1056.0
+ Qu        972 E=    -11.1509090833598     steps=  100 RMS= 0.95832E-04 Markov E=    -11.1509091199980     t=     1056.2
+ Qu        973 E=    -11.1509091073358     steps=   66 RMS= 0.70647E-04 Markov E=    -11.1509090833598     t=     1056.4
+ Qu        974 E=    -11.1509090427783     steps=   63 RMS= 0.81064E-04 Markov E=    -11.1509091073358     t=     1056.5
+ Qu        975 E=    -11.1509090658444     steps=   83 RMS= 0.82364E-04 Markov E=    -11.1509091073358     t=     1056.7
+ Qu        976 E=    -11.1475387169258     steps=   95 RMS= 0.67959E-04 Markov E=    -11.1509090658444     t=     1057.0
+ Qu        977 E=    -11.1509091100125     steps=   69 RMS= 0.86046E-04 Markov E=    -11.1509090658444     t=     1057.1
+ Qu        978 E=    -11.1509091071839     steps=   73 RMS= 0.94463E-04 Markov E=    -11.1509091100125     t=     1057.3
+ Qu        979 E=    -10.5492387648942     steps=   93 RMS= 0.79091E-04 Markov E=    -11.1509091071839     t=     1057.6
+quench>  WARNING - compressed quench     980  did not converge
+quench> Comp Q     980 energy=       13.6766900167 steps= 3000 RMS force=      0.1489070
+ Qu        980 E=    -10.5952983178909     steps=  139 RMS= 0.77449E-04 Markov E=    -11.1509091071839     t=     1074.8
+ Qu        981 E=    -11.1509091323495     steps=   68 RMS= 0.31105E-04 Markov E=    -11.1509091071839     t=     1075.0
+ Qu        982 E=    -11.1475386723592     steps=   96 RMS= 0.90444E-04 Markov E=    -11.1509091323495     t=     1075.2
+ Qu        983 E=    -11.1509091023179     steps=   71 RMS= 0.68859E-04 Markov E=    -11.1509091323495     t=     1075.4
+ Qu        984 E=    -11.1509090189096     steps=   70 RMS= 0.81645E-04 Markov E=    -11.1509091023179     t=     1075.6
+ Qu        985 E=    -11.1509091096238     steps=   75 RMS= 0.60355E-04 Markov E=    -11.1509090189096     t=     1075.7
+ Qu        986 E=    -11.1509090780332     steps=   80 RMS= 0.88533E-04 Markov E=    -11.1509091096238     t=     1075.9
+ Qu        987 E=    -11.1509091305457     steps=   87 RMS= 0.55880E-04 Markov E=    -11.1509091096238     t=     1076.1
+ Qu        988 E=    -10.7068983680446     steps=   80 RMS= 0.95419E-04 Markov E=    -11.1509091305457     t=     1076.3
+ Qu        989 E=    -11.1509091179151     steps=   83 RMS= 0.71219E-04 Markov E=    -11.1509091305457     t=     1076.4
+ Qu        990 E=    -11.1509090490517     steps=   76 RMS= 0.73326E-04 Markov E=    -11.1509091179151     t=     1076.6
+ Qu        991 E=    -11.1509090540877     steps=   72 RMS= 0.81618E-04 Markov E=    -11.1509090490517     t=     1076.8
+ Qu        992 E=    -11.1509091215615     steps=   66 RMS= 0.66796E-04 Markov E=    -11.1509090540877     t=     1076.9
+ Qu        993 E=    -11.1509091059070     steps=   85 RMS= 0.90801E-04 Markov E=    -11.1509091215615     t=     1077.2
+ Qu        994 E=    -11.1509090750276     steps=   78 RMS= 0.85217E-04 Markov E=    -11.1509091059070     t=     1077.4
+ Qu        995 E=    -11.1509090465292     steps=   76 RMS= 0.93430E-04 Markov E=    -11.1509090750276     t=     1077.6
+ Qu        996 E=    -10.5822783300084     steps=  135 RMS= 0.70560E-04 Markov E=    -11.1509090465292     t=     1077.9
+ Qu        997 E=    -11.1509090441642     steps=   72 RMS= 0.95681E-04 Markov E=    -11.1509090465292     t=     1078.1
+ Qu        998 E=    -11.1509090851549     steps=   71 RMS= 0.72558E-04 Markov E=    -11.1509090441642     t=     1078.3
+ Qu        999 E=    -11.1509089263835     steps=   67 RMS= 0.94876E-04 Markov E=    -11.1509090851549     t=     1078.4
+quench>  WARNING - compressed quench    1000  did not converge
+quench> Comp Q    1000 energy=       49.5861097085 steps= 3000 RMS force=      0.2283070
+ Qu       1000 E=    -10.7194861782983     steps=  117 RMS= 0.33409E-04 Markov E=    -11.1509090851549     t=     1094.8
+Acceptance ratio for previous     50 steps=  0.7600  FAC=  1.0500
+mc> MC steps using MPI finished.
+[01]BHPT_IO>    0 out of     3 exchanges accepted in this process.
+[01]BHPT_IO>Local quenches / function calls / time:                1000              537565             1094.82
+[--]BHPT_IO>    0 out of     1 exchanges accepted overall.
+[--]BHPT_IO>Total quenches / function calls / time:                1000              537565             1094.82
+Acceptance ratio for run=     0.73400 Step=     1.20000 Angular step factor=     0.00000 T=     0.00000
+Tightly converging the SAVE lowest energy minima found
+NOTE: these may NOT match the other output files - see below for a sorted list of Lowest minima
+Final Quench      1 energy=    -11.15090914     steps=   21 RMS force=  0.8959638E-06 time=     1094.86
+Final Quench      2 energy=    -11.05300580     steps=   29 RMS force=  0.6514253E-06 time=     1094.90
+Final Quench      3 energy=    -10.78628817     steps=   33 RMS force=  0.6858476E-06 time=     1094.96
+Final Quench      4 energy=    -10.73584711     steps=   35 RMS force=  0.8315571E-06 time=     1095.03
+Final Quench      5 energy=    -10.71948618     steps=   32 RMS force=  0.9008983E-06 time=     1095.08
+Final Quench      6 energy=    -10.70849048     steps=   34 RMS force=  0.8102318E-06 time=     1095.14
+Final Quench      7 energy=    -10.69822563     steps=   38 RMS force=  0.7832999E-06 time=     1095.20
+Final Quench      8 energy=    -10.67682155     steps=   38 RMS force=  0.6597835E-06 time=     1095.25
+Final Quench      9 energy=    -10.65056991     steps=   31 RMS force=  0.9551956E-06 time=     1095.31
+Final Quench     10 energy=    -10.62081133     steps=   32 RMS force=  0.9768151E-06 time=     1095.38
+Final Quench     11 energy=    -10.60687657     steps=   31 RMS force=  0.4293025E-06 time=     1095.44
+Final Quench     12 energy=    -10.59671113     steps=   22 RMS force=  0.9781406E-06 time=     1095.48
+Final Quench     13 energy=    -10.58227835     steps=   43 RMS force=  0.5045430E-06 time=     1095.56
+Final Quench     14 energy=    -10.55804578     steps=   41 RMS force=  0.7400273E-06 time=     1095.64
+Final Quench     15 energy=    -10.53523219     steps=   33 RMS force=  0.8842019E-06 time=     1095.69
+Final Quench     16 energy=    -10.51430080     steps=   43 RMS force=  0.7438903E-06 time=     1095.76
+Final Quench     17 energy=    -10.46527788     steps=   42 RMS force=  0.6390260E-06 time=     1095.84
+Final Quench     18 energy=    -10.42547011     steps=   42 RMS force=  0.8075464E-06 time=     1095.91
+Final Quench     19 energy=    -10.40156214     steps=   31 RMS force=  0.9785027E-06 time=     1095.98
+Final Quench     20 energy=    -10.35218390     steps=   38 RMS force=  0.3102294E-06 time=     1096.04
+Final Quench     21 energy=    -10.33407042     steps=   44 RMS force=  0.6844868E-06 time=     1096.12
+Final Quench     22 energy=    -10.28519133     steps=   43 RMS force=  0.9121132E-06 time=     1096.20
+Final Quench     23 energy=    -10.23841334     steps=   35 RMS force=  0.7132313E-06 time=     1096.26
+Final Quench     24 energy=    -10.08292396     steps=   28 RMS force=  0.6916820E-06 time=     1096.30
+Final Quench     25 energy=    -10.06189067     steps=   53 RMS force=  0.4513210E-06 time=     1096.40
+After re-sorting, the lowest found minima are (lowest free energy subtracted if applicable):
+Lowest Minimum      1 Energy=     -11.15090914    
+Lowest Minimum      2 Energy=     -11.05300580    
+Lowest Minimum      3 Energy=     -10.78628817    
+Lowest Minimum      4 Energy=     -10.73584711    
+Lowest Minimum      5 Energy=     -10.71948618    
+Lowest Minimum      6 Energy=     -10.70849048    
+Lowest Minimum      7 Energy=     -10.69822563    
+Lowest Minimum      8 Energy=     -10.67682155    
+Lowest Minimum      9 Energy=     -10.65056991    
+Lowest Minimum     10 Energy=     -10.62081133    
+Lowest Minimum     11 Energy=     -10.60687657    
+Lowest Minimum     12 Energy=     -10.59671113    
+Lowest Minimum     13 Energy=     -10.58227835    
+Lowest Minimum     14 Energy=     -10.55804578    
+Lowest Minimum     15 Energy=     -10.53523219    
+Lowest Minimum     16 Energy=     -10.51430080    
+Lowest Minimum     17 Energy=     -10.46527788    
+Lowest Minimum     18 Energy=     -10.42547011    
+Lowest Minimum     19 Energy=     -10.40156214    
+Lowest Minimum     20 Energy=     -10.35218390    
+Lowest Minimum     21 Energy=     -10.33407042    
+Lowest Minimum     22 Energy=     -10.28519133    
+Lowest Minimum     23 Energy=     -10.23841334    
+Lowest Minimum     24 Energy=     -10.08292396    
+Lowest Minimum     25 Energy=     -10.06189067    
+time elapsed             1096.4 seconds
+Number of potential calls             538483
