@@ -1,0 +1,13 @@
+0: mv: cannot stat ‘finish.22564.1.0’: No such file or directory
+0: Using a 'void **' argument to return the LAMMPS handle is deprecated.  Please use the return value instead.
+0: Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+0: mv: cannot stat ‘finish.22614.-1.-1’: No such file or directory
+0: Using a 'void **' argument to return the LAMMPS handle is deprecated.  Please use the return value instead.
+0: Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+0: mv: cannot stat ‘finish.22664.-1.-1’: No such file or directory
+0: Using a 'void **' argument to return the LAMMPS handle is deprecated.  Please use the return value instead.
+0: Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+0: mv: cannot stat ‘finish.22714.-1.-1’: No such file or directory
+0: Using a 'void **' argument to return the LAMMPS handle is deprecated.  Please use the return value instead.
+0: Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL

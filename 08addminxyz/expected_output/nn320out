@@ -1,1 +1,161 @@
+PATHSAMPLE version rUnversioned directory                                                 
+GetNodes> Will run 1 jobs per core
+getnodes> Interactive run - not checking for nodes.info file
+mysystem> hostname > currentnode
+mysystem> rm currentnode
+mysystem> sinfo --version | sed 's/-wlm//' | cut -c7-8 > slurmversion
+mysystem> rm slurmversion
+keywords> Distance tolerance for identifying atoms in the same orbit=        0.00100
+ keywords> Maximum number of secondary sets in perm.allow file=  5
+keywords> Number of groups of permutable atoms=     1
+main> WARNING - PERM set without perm.allow file in COPYFILES
+*************************************************************************************************
+debug printing is ON
+Running on          1 processors for distributed memory SLURM setup
+Number of jobs per processor=         1
+Sleep times between OPTIM job submissions (s)=     1.000000000         1.000000000    
+The following additional files will be copied to distributed nodes: in.lammps yyggyyfinal.dat
+finite system (not bulk)
+OPTIM system symbol: LA
+number of atoms or variables=    6
+minimum number of connections for minima=         1
+maximum number of ts searches to achieve this minimum value=        10
+random number seed=         1
+initial perturbation parameter single-ended transition state searches=        0.90000
+energy difference  criterion for distinguishing stationary points=    0.1000000000E-06
+distance criterion for distinguishing stationary points=    0.1000000000E+00
+inertia difference criterion for setup check=    0.1000000000E-02
+sampling direction is a<-b
+OPTIM executable: /sharedscratch/nn320/softwarewales/OPTIM/builds/gfortranlammp/LMPOPTIM          
+Temperature=        0.59600
+Number of cycles for connections between local minima=       4
+No Pfold iterations
+Rate calculation will iteratively remove minima with     0 connections or fewer
+path.info files will be read as min-sad-min triples
+Pairs of minima will be chosen based upon a minimum committor probability difference of        0.500
+Pairs will be recalculated every          1 cycles
+*************************************************************************************************
+setup> there are          0 A minima at locations:
 
+setup> locations read for          0 min of type A
+setup> there are          0 B minima at locations:
+
+setup> locations read for          0 min of type B
+setup> parameters read for          0 min
+setup> points for          0 minima read from file points.min
+setup> no transition states found
+setup> Calculating rate constants
+main> Adding minima from file alllowest.xyz
+main> after running OPTIM using odata.addminxyz template to generate min.data.info
+main> Number of minima in xyz file alllowest.xyz is        4
+main> time spent in setup=        0.00199
+cycle2> removing previous OPTIM files
+mysystem> rm -f odata.*[0-9] > /dev/null
+mysystem> rm -f convcheck.*[0-9] > /dev/null
+mysystem> rm -f path.[0-9]*.xyz.*[0-9] > /dev/null
+mysystem> rm -f EofS.*[0-9] > /dev/null
+mysystem> rm -f OPTIM.connect.*[0-9] > /dev/null
+mysystem> rm -f OPTIM.checksp.*[0-9] > /dev/null
+mysystem> rm -f OPTIM.tssearch.*[0-9] > /dev/null
+mysystem> rm -f path.info.*[0-9].done > /dev/null
+mysystem> rm -f min.data.info.*[0-9] > /dev/null
+mysystem> rm -f input.crd.*[0-9] > /dev/null
+mysystem> rm -f start.*[0-9] > /dev/null
+mysystem> rm -f finish.*[0-9] > /dev/null
+mysystem> rm -f points1.inp.*[0-9] > /dev/null
+mysystem> rm -f points2.inp.*[0-9] > /dev/null
+mysystem> rm -f vector.dump.*[0-9] > /dev/null
+mysystem> rm -f coords.*[0-9] > /dev/null
+mysystem> rm -f path.xyz.*[0-9] > /dev/null
+mysystem> rm -f points.final.*[0-9] > /dev/null
+mysystem> rm -rf *tempcopyfiles > /dev/null
+mysystem> rm -f submit_*[0-9]*sh > /dev/null
+mysystem> rm -f optimjob*[0-9]*sh > /dev/null
+mysystem> rm -f nebreadguess*[0-9]* > /dev/null
+cycle2> points read for xyz minmum      1
+mysystem> cat odata.addminxyz > odata.1
+cycle2> forked connect run process id=   22564 minima        1       0
+mysystem> mv odata.1 odata.22564.1.0
+mysystem> mv start.1 start.22564.1.0
+submitoptimjob> myjobstring=/sharedscratch/nn320/softwarewales/OPTIM/builds/gfortranlammp/LMPOPTIM > OPTIM.addminxyz.22564.1.0
+nodes seeding with CHILDPID=     22564
+slurmsubmit> directory and minima: 22564.1.0.0.57988-tempcopyfiles                                                                            1       0
+mysystem> mkdir 22564.1.0.0.57988-tempcopyfiles
+mysystem> cp *.22564.1.0 in.lammps yyggyyfinal.dat 22564.1.0.0.57988-tempcopyfiles
+slurmsubmit> complete job string for srun command: cd 22564.1.0.0.57988-tempcopyfiles ; mv odata.22564.1.0 odata; mv start.22564.1.0 start 2>/dev/null ; mv finish.22564.1.0 finish ; rm -f path.info.* ;/sharedscratch/nn320/softwarewales/OPTIM/builds/gfortranlammp/LMPOPTIM > OPTIM.addminxyz.22564.1.0 ; cp path.info  ../path.info.22564.1.0 2>/dev/null  ; cp min.data.info  ../min.data.info.22564.1.0 2>/dev/null
+slurmsubmit> slurm version     20
+mysystem> chmod +x submit_0.57988.sh
+cycle2> PID    22564 has finished with exit status      0
+cycle2> PID    22564 has finished on cpu        1
+cycle2> analysing result of search        1 on CPU        1 for process id    22564
+mysystem> cp min.data.info.22564.1.0 min.data.info
+getallmin> new minimum      1 writing parameters to file min.data and points to points.min
+ cycle2> warning: path.info file does not exist. Can't analyse results.
+mysystem> cat odata.addminxyz > odata.1
+mysystem> mv odata.1 odata.22614.-1.-1
+cycle2> forked connect run process id=   22614 minima       -1      -1
+--------------------------------------------------------------------------------------------------------------
+cycle2> end of cycle        1 new min=       1 new ts=       0 total min=       1 total ts=       0
+--------------------------------------------------------------------------------------------------------------
+mysystem> mv start.1 start.22614.-1.-1
+submitoptimjob> myjobstring=/sharedscratch/nn320/softwarewales/OPTIM/builds/gfortranlammp/LMPOPTIM > OPTIM.addminxyz.22614.-1.-1
+nodes seeding with CHILDPID=     22614
+slurmsubmit> directory and minima: 22614.-1.-1.0.42925-tempcopyfiles                                                                         -1      -1
+mysystem> mkdir 22614.-1.-1.0.42925-tempcopyfiles
+mysystem> cp *.22614.-1.-1 in.lammps yyggyyfinal.dat 22614.-1.-1.0.42925-tempcopyfiles
+slurmsubmit> complete job string for srun command: cd 22614.-1.-1.0.42925-tempcopyfiles ; mv odata.22614.-1.-1 odata; mv start.22614.-1.-1 start 2>/dev/null ; mv finish.22614.-1.-1 finish ; rm -f path.info.* ;/sharedscratch/nn320/softwarewales/OPTIM/builds/gfortranlammp/LMPOPTIM > OPTIM.addminxyz.22614.-1.-1 ; cp path.info  ../path.info.22614.-1.-1 2>/dev/null  ; cp min.data.info  ../min.data.info.22614.-1.-1 2>/dev/null
+slurmsubmit> slurm version     20
+mysystem> chmod +x submit_0.42925.sh
+cycle2> PID    22614 has finished with exit status      0
+cycle2> PID    22614 has finished on cpu        1
+cycle2> analysing result of search        2 on CPU        1 for process id    22614
+mysystem> cp min.data.info.22614.-1.-1 min.data.info
+getallmin> minimum      1 is database minimum      1
+ cycle2> warning: path.info file does not exist. Can't analyse results.
+mysystem> cat odata.addminxyz > odata.1
+mysystem> mv odata.1 odata.22664.-1.-1
+cycle2> forked connect run process id=   22664 minima       -1      -1
+--------------------------------------------------------------------------------------------------------------
+cycle2> end of cycle        2 new min=       0 new ts=       0 total min=       1 total ts=       0
+--------------------------------------------------------------------------------------------------------------
+mysystem> mv start.1 start.22664.-1.-1
+submitoptimjob> myjobstring=/sharedscratch/nn320/softwarewales/OPTIM/builds/gfortranlammp/LMPOPTIM > OPTIM.addminxyz.22664.-1.-1
+nodes seeding with CHILDPID=     22664
+slurmsubmit> directory and minima: 22664.-1.-1.0.77844-tempcopyfiles                                                                         -1      -1
+mysystem> mkdir 22664.-1.-1.0.77844-tempcopyfiles
+mysystem> cp *.22664.-1.-1 in.lammps yyggyyfinal.dat 22664.-1.-1.0.77844-tempcopyfiles
+slurmsubmit> complete job string for srun command: cd 22664.-1.-1.0.77844-tempcopyfiles ; mv odata.22664.-1.-1 odata; mv start.22664.-1.-1 start 2>/dev/null ; mv finish.22664.-1.-1 finish ; rm -f path.info.* ;/sharedscratch/nn320/softwarewales/OPTIM/builds/gfortranlammp/LMPOPTIM > OPTIM.addminxyz.22664.-1.-1 ; cp path.info  ../path.info.22664.-1.-1 2>/dev/null  ; cp min.data.info  ../min.data.info.22664.-1.-1 2>/dev/null
+slurmsubmit> slurm version     20
+mysystem> chmod +x submit_0.77844.sh
+cycle2> PID    22664 has finished with exit status      0
+cycle2> PID    22664 has finished on cpu        1
+cycle2> analysing result of search        3 on CPU        1 for process id    22664
+mysystem> cp min.data.info.22664.-1.-1 min.data.info
+getallmin> new minimum      2 writing parameters to file min.data and points to points.min
+ cycle2> warning: path.info file does not exist. Can't analyse results.
+mysystem> cat odata.addminxyz > odata.1
+mysystem> mv odata.1 odata.22714.-1.-1
+cycle2> forked connect run process id=   22714 minima       -1      -1
+--------------------------------------------------------------------------------------------------------------
+cycle2> end of cycle        3 new min=       1 new ts=       0 total min=       2 total ts=       0
+--------------------------------------------------------------------------------------------------------------
+mysystem> mv start.1 start.22714.-1.-1
+submitoptimjob> myjobstring=/sharedscratch/nn320/softwarewales/OPTIM/builds/gfortranlammp/LMPOPTIM > OPTIM.addminxyz.22714.-1.-1
+nodes seeding with CHILDPID=     22714
+slurmsubmit> directory and minima: 22714.-1.-1.0.55542-tempcopyfiles                                                                         -1      -1
+mysystem> mkdir 22714.-1.-1.0.55542-tempcopyfiles
+mysystem> cp *.22714.-1.-1 in.lammps yyggyyfinal.dat 22714.-1.-1.0.55542-tempcopyfiles
+slurmsubmit> complete job string for srun command: cd 22714.-1.-1.0.55542-tempcopyfiles ; mv odata.22714.-1.-1 odata; mv start.22714.-1.-1 start 2>/dev/null ; mv finish.22714.-1.-1 finish ; rm -f path.info.* ;/sharedscratch/nn320/softwarewales/OPTIM/builds/gfortranlammp/LMPOPTIM > OPTIM.addminxyz.22714.-1.-1 ; cp path.info  ../path.info.22714.-1.-1 2>/dev/null  ; cp min.data.info  ../min.data.info.22714.-1.-1 2>/dev/null
+slurmsubmit> slurm version     20
+mysystem> chmod +x submit_0.55542.sh
+cycle2> PID    22714 has finished with exit status      0
+cycle2> PID    22714 has finished on cpu        1
+cycle2> analysing result of search        4 on CPU        1 for process id    22714
+mysystem> cp min.data.info.22714.-1.-1 min.data.info
+getallmin> minimum      1 is database minimum      2
+ cycle2> warning: path.info file does not exist. Can't analyse results.
+--------------------------------------------------------------------------------------------------------------
+cycle2> end of cycle        4 new min=       0 new ts=       0 total min=       2 total ts=       0
+--------------------------------------------------------------------------------------------------------------
+main> CPU time spent iterating committor probability=     0.0000     s
+main> total CPU time spent in PATHSAMPLE            =    0.92180E-02 s
