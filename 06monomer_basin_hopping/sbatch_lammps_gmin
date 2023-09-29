@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#SBATCH -p MAIN
+#SBATCH --job-name=LMPbhyy
+#SBATCH -n1 -N1
+##SBATCH --mail-type=FAIL # Receive an email if your job fails
+
+echo "Time: `date`" > jobnumber
+
+module purge # unload all modules from user's environment.
+module load gcc/7.5.0
+module load mpi/openmpi/gnu7/4.1.0
+
+/sharedscratch/nn320/softwarewales/GMIN/builds/gfortran_lammps_mpi/LMPGMIN > nn320out
+
+echo Finished at `date` >> jobnumber
