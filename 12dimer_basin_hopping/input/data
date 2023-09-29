@@ -1,1 +1,35 @@
+! DEBUG
+LAMMPS 
+MPI
+CENTRE
+RADIUS 1000.0                                                                   
+FIXBOTH
+! ACCEPTRATIO 0.26
 
+SLOPPYCONV 1.0D-4                                                               
+TIGHTCONV 1.0D-6                                                                
+MAXERISE 1.0D-2                                                                 
+EDIFF 0.01D0                                                                   
+! GEOMDIFFTOL 2.6D0                                                             
+UPDATES 1500                                                                    
+MAXIT 3000 5000                                                                 
+MAXBFGS 0.2D0                                                                   
+
+STEPS 1000 1.0
+DUMPINT 100                                                                   
+SAVE 100
+TEMPERATURE 0.596
+TRACKDATA                                                                      
+RIGIDINIT                                                                       
+HYBRIDMIN 1.0D5                                                                 
+UPDATERIGIDREF 
+! STEP 1.2 0.0
+! EXPANDRIGID 26 8.0 NORMALISE
+! ROTATERIGID 26 1.0    
+! TRANSLATERIGID 26 8.0  
+! COMPRESS 3.56 
+STEP 1.2 0.0
+EXPANDRIGID 20 8.0 NORMALISE
+ROTATERIGID 20 1.0
+TRANSLATERIGID 20 6.0
+COMPRESS 6.75
