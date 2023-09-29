@@ -1,1 +1,23 @@
+NATOMS          6
+SYSTEM          LA
 
+SLURM
+DEBUG
+RUNLOCAL
+
+ADDMINXYZ alllowest.xyz
+CYCLES 4
+
+TEMPERATURE 0.596
+EXEC /sharedscratch/nn320/softwarewales/OPTIM/builds/gfortranlammp/LMPOPTIM
+COPYFILES in.lammps yyggyyfinal.dat
+COPYOPTIM
+SEED           1
+DIRECTION AB
+CONNECTIONS     1
+PERMDIST
+ETOL           1.0D-7
+GEOMDIFFTOL    0.1
+! ITOL           0.1D0
+
+LAMMPS
