@@ -1,0 +1,22 @@
+! DEBUG
+LAMMPS 
+MPI
+CENTRE
+RADIUS 1000.0                                                                   
+FIXBOTH
+
+SLOPPYCONV 1.0D-4                                                               
+TIGHTCONV 1.0D-6                                                                
+MAXERISE 1.0D-2                                                                 
+EDIFF 0.001D0                                                                    
+! GEOMDIFFTOL 2.6D0                                                             
+UPDATES 1500                                                                    
+MAXIT 3000 5000                                                                 
+MAXBFGS 0.2D0                                                                   
+
+STEPS 10000 1.0
+! DUMPINT 100                                                                   
+SAVE 100
+TEMPERATURE 0.596
+! STEP 2.6 0.0
+TRACKDATA                                                                       
