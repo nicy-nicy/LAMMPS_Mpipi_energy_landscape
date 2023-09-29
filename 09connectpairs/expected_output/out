@@ -1,1 +1,48 @@
-
+PATHSAMPLE version rUnversioned directory                                                 
+GetNodes> Will run 1 jobs per core
+getnodes> Interactive run - not checking for nodes.info file
+mysystem> hostname > currentnode
+mysystem> rm currentnode
+mysystem> sinfo --version | sed 's/-wlm//' | cut -c7-8 > slurmversion
+mysystem> rm slurmversion
+keywords> Distance tolerance for identifying atoms in the same orbit=        0.00100
+ keywords> Maximum number of secondary sets in perm.allow file=  5
+keywords> Number of groups of permutable atoms=     1
+main> WARNING - PERM set without perm.allow file in COPYFILES
+*************************************************************************************************
+debug printing is ON
+Running on          1 processors for distributed memory SLURM setup
+Number of jobs per processor=         1
+Sleep times between OPTIM job submissions (s)=     1.000000000         1.000000000    
+The following additional files will be copied to distributed nodes: in.lammps yyggyyfinal.dat
+finite system (not bulk)
+OPTIM system symbol: LA
+number of atoms or variables=    6
+minimum number of connections for minima=         1
+maximum number of ts searches to achieve this minimum value=        10
+random number seed=         1
+initial perturbation parameter single-ended transition state searches=        0.90000
+energy difference  criterion for distinguishing stationary points=    0.1000000000E-06
+distance criterion for distinguishing stationary points=    0.1000000000E+00
+inertia difference criterion for setup check=    0.1000000000E-02
+sampling direction is a<-b
+OPTIM executable: /sharedscratch/nn320/softwarewales/OPTIM/builds/gfortranlammp/LMPOPTIM          
+Temperature=        0.59600
+Number of cycles for connections between local minima=       0
+No Pfold iterations
+Rate calculation will iteratively remove minima with     0 connections or fewer
+path.info files will be read as min-sad-min triples
+*************************************************************************************************
+setup> there are          1 A minima at locations:
+         1
+setup> locations read for          1 min of type A
+setup> there are          1 B minima at locations:
+     2
+setup> locations read for          1 min of type B
+setup> parameters read for          2 min
+setup> parameters read for          2 ts
+setup> Setting up ts pointers
+setup> Calculating rate constants
+setup> Reading pairs.data
+setup>        1 pairs of minima already searched read from pairs.data
+Cv> Calculating Cv for temperature range         0.01000        1.20000 increment         0.0010000000

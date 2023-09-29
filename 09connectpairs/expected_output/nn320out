@@ -1,0 +1,117 @@
+PATHSAMPLE version rUnversioned directory                                                 
+GetNodes> Will run 1 jobs per core
+getnodes> Interactive run - not checking for nodes.info file
+mysystem> hostname > currentnode
+mysystem> rm currentnode
+mysystem> sinfo --version | sed 's/-wlm//' | cut -c7-8 > slurmversion
+mysystem> rm slurmversion
+keywords> Distance tolerance for identifying atoms in the same orbit=        0.00100
+ keywords> Maximum number of secondary sets in perm.allow file=  5
+keywords> Number of groups of permutable atoms=     1
+main> WARNING - PERM set without perm.allow file in COPYFILES
+*************************************************************************************************
+debug printing is ON
+Running on          1 processors for distributed memory SLURM setup
+Number of jobs per processor=         1
+Sleep times between OPTIM job submissions (s)=     1.000000000         1.000000000    
+The following additional files will be copied to distributed nodes: in.lammps yyggyyfinal.dat
+finite system (not bulk)
+OPTIM system symbol: LA
+number of atoms or variables=    6
+minimum number of connections for minima=         1
+maximum number of ts searches to achieve this minimum value=        10
+random number seed=         1
+initial perturbation parameter single-ended transition state searches=        0.90000
+energy difference  criterion for distinguishing stationary points=    0.1000000000E-06
+distance criterion for distinguishing stationary points=    0.1000000000E+00
+inertia difference criterion for setup check=    0.1000000000E-02
+sampling direction is a<-b
+OPTIM executable: /sharedscratch/nn320/softwarewales/OPTIM/builds/gfortranlammp/LMPOPTIM          
+Temperature=        0.59600
+Number of cycles for connections between local minima=       1
+No Pfold iterations
+Rate calculation will iteratively remove minima with     0 connections or fewer
+path.info files will be read as min-sad-min triples
+Pairs of minima will be taken from the file connectfile
+*************************************************************************************************
+setup> there are          1 A minima at locations:
+         1
+setup> locations read for          1 min of type A
+setup> there are          1 B minima at locations:
+     2
+setup> locations read for          1 min of type B
+setup> parameters read for          2 min
+setup> points for          2 minima read from file points.min
+setup> parameters read for          0 ts
+setup> Setting up ts pointers
+setup> Checking ts moments of inertia
+setup> Calculating rate constants
+setup> Number of minima pairs in file connectfile is        1
+setup> Connection pairs of local minima:
+         1         2
+main> time spent in setup=        0.00225
+cycle2> removing previous OPTIM files
+mysystem> rm -f odata.*[0-9] > /dev/null
+mysystem> rm -f convcheck.*[0-9] > /dev/null
+mysystem> rm -f path.[0-9]*.xyz.*[0-9] > /dev/null
+mysystem> rm -f EofS.*[0-9] > /dev/null
+mysystem> rm -f OPTIM.connect.*[0-9] > /dev/null
+mysystem> rm -f OPTIM.checksp.*[0-9] > /dev/null
+mysystem> rm -f OPTIM.tssearch.*[0-9] > /dev/null
+mysystem> rm -f path.info.*[0-9].done > /dev/null
+mysystem> rm -f min.data.info.*[0-9] > /dev/null
+mysystem> rm -f input.crd.*[0-9] > /dev/null
+mysystem> rm -f start.*[0-9] > /dev/null
+mysystem> rm -f finish.*[0-9] > /dev/null
+mysystem> rm -f points1.inp.*[0-9] > /dev/null
+mysystem> rm -f points2.inp.*[0-9] > /dev/null
+mysystem> rm -f vector.dump.*[0-9] > /dev/null
+mysystem> rm -f coords.*[0-9] > /dev/null
+mysystem> rm -f path.xyz.*[0-9] > /dev/null
+mysystem> rm -f points.final.*[0-9] > /dev/null
+mysystem> rm -rf *tempcopyfiles > /dev/null
+mysystem> rm -f submit_*[0-9]*sh > /dev/null
+mysystem> rm -f optimjob*[0-9]*sh > /dev/null
+mysystem> rm -f nebreadguess*[0-9]* > /dev/null
+getnconn> max connections:          0 for min          1 # of zeros=         2 after removing minima with <          1
+getconnectpair> connection        1 pair        1 and        2
+getconnectpair> list of        1 pairs
+       1       2
+getconnectpair> connecting minima        1 and        2 pairs used=       1 remaining=       0 total pairs=       0
+mysystem> cat odata.connect > odata.1
+cycle2> forked connect run process id=   23980 minima        1       2
+mysystem> mv odata.1 odata.23980.1.2
+mysystem> mv finish.1 finish.23980.1.2
+mysystem> mv start.1 start.23980.1.2
+submitoptimjob> myjobstring=/sharedscratch/nn320/softwarewales/OPTIM/builds/gfortranlammp/LMPOPTIM > OPTIM.connect.23980.1.2
+nodes seeding with CHILDPID=     23980
+slurmsubmit> directory and minima: 23980.1.2.0.06477-tempcopyfiles                                                                            1       2
+mysystem> mkdir 23980.1.2.0.06477-tempcopyfiles
+mysystem> cp *.23980.1.2 in.lammps yyggyyfinal.dat 23980.1.2.0.06477-tempcopyfiles
+slurmsubmit> complete job string for srun command: cd 23980.1.2.0.06477-tempcopyfiles ; mv odata.23980.1.2 odata; mv start.23980.1.2 start 2>/dev/null ; mv finish.23980.1.2 finish ; rm -f path.info.* ;/sharedscratch/nn320/softwarewales/OPTIM/builds/gfortranlammp/LMPOPTIM > OPTIM.connect.23980.1.2 ; cp path.info  ../path.info.23980.1.2 2>/dev/null  ; cp min.data.info  ../min.data.info.23980.1.2 2>/dev/null
+slurmsubmit> slurm version     20
+mysystem> chmod +x submit_0.06477.sh
+cycle2> PID    23980 has finished with exit status      1
+cycle2> PID    23980 has finished on cpu        1
+cycle2> analysing result of search        1 on CPU        1 for process id    23980
+cycle2> connection        1 on CPU        1 was unsuccessful
+parsepinfo> pid,min1,min2=   23980       1       2
+parsepinfo> starting minimum matches path.info name
+parsepinfo> final minimum matches path.info name
+getallpaths> number of triples=       2 number of trailing lines=       0
+getallpaths> doing triple number      1 number of minima and ts=         2         0
+getallpaths> path minimum      1 is database minimum      1
+getallpaths> new intermediate ts      1 energy=    -2.603948848    
+getallpaths> path minimum      2 is database minimum      1
+getallpaths> writing data for new ts to ts.data
+getallpaths> doing triple number      2 number of minima and ts=         2         1
+getallpaths> path minimum      3 is database minimum      1
+getallpaths> new intermediate ts      2 energy=    -2.851643309    
+getallpaths> path minimum      4 is database minimum      2
+getallpaths> writing data for new ts to ts.data
+mysystem> mv path.info.23980.1.2 path.info.23980.1.2.done
+--------------------------------------------------------------------------------------------------------------
+cycle2> end of cycle        1 new min=       0 new ts=       2 total min=       2 total ts=       2
+--------------------------------------------------------------------------------------------------------------
+main> CPU time spent iterating committor probability=     0.0000     s
+main> total CPU time spent in PATHSAMPLE            =    0.64210E-02 s
