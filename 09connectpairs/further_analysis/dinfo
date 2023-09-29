@@ -1,1 +1,6 @@
-
+autorange
+delta 0.01
+minima min.data
+ts ts.data
+! identify
+scalebar 1
