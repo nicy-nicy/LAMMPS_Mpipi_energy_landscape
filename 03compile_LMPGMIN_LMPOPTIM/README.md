@@ -6,7 +6,7 @@ Reference
 > **Note:** Instead of nn320, your should use your own username.
 
 Summary
-1. Steps for compiling **LMPGMIN with MPI** for basin-hopping calculation in GMIN.
+1. Steps for compiling **LMPGMIN** for basin-hopping calculation in GMIN.
 ```
 mkdir -p /sharedscratch/nn320/softwarewales/GMIN/builds/gfortran_lammps_mpi
 cd !$
