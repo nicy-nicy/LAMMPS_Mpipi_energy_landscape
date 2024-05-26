@@ -1,0 +1,34 @@
+#!/bin/bash
+
+#SBATCH --job-name=ytrial
+#SBATCH --ntasks=4
+#SBATCH --gpus=1 
+#SBATCH --constraint=titanblack 
+#SBATCH --time=6-02:00:00
+
+numnodes=$SLURM_JOB_NUM_NODES
+numtasks=$SLURM_NTASKS
+mpi_tasks_per_node=$(echo "$SLURM_TASKS_PER_NODE" | sed -e  's/^\([0-9][0-9]*\).*$/\1/')
+np=$[${numnodes}*${mpi_tasks_per_node}]
+
+export OMP_NUM_THREADS=1
+
+echo $SLURM_NTASKS > nodes.info
+srun hostname >> nodes.info
+echo $USER >> nodes.info
+pwd >> nodes.info
+
+echo "Time: `date`" > jobnumber
+module purge # unload all modules from user's environment.
+module load gcc/7.5.0
+module load mpi/openmpi/gnu7/4.1.0
+mpirun -np $np /sharedscratch/nn320/softwarewales/GMIN/builds/gfortran_lammps_mpi/LMPGMIN > nn320out
+echo Finished at `date` >> jobnumber
+
+JOBID=$SLURM_JOB_ID
+echo -e "JobID: $JOBID\n======"
+echo "Time: `date`"
+echo "Running on master node: `hostname`"
+echo "Current directory: `pwd`"
+
+echo -e "\nnumtasks=$numtasks, numnodes=$numnodes, mpi_tasks_per_node=$mpi_tasks_per_node (OMP_NUM_THREADS=$OMP_NUM_THREADS)"

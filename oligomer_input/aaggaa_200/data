@@ -1,0 +1,36 @@
+! DEBUG
+LAMMPS
+MPI
+CENTRE
+FIXBOTH
+
+SLOPPYCONV 1.0D-4
+TIGHTCONV 1.0D-6
+MAXERISE 1.0D-2
+EDIFF 0.01D0
+UPDATES 1500
+MAXIT 8000 8000
+MAXBFGS 0.2D0
+TRACKDATA
+
+STEPS 20000 1.0
+DUMPINT 4000
+SAVE 100
+
+! STEP 0.5 0.0
+! TEMPERATURE 0.3
+
+RIGIDINIT                                                                       
+HYBRIDMIN 1.0D5                                                                 
+UPDATERIGIDREF                                                                  
+
+! EXPANDRIGID 1 2                                                    
+! ROTATERIGID 1 0.3                                                          
+! TRANSLATERIGID 1 1.2                                                 
+GUIDE 0.01  
+STEP 0.4 0.0
+TEMPERATURE 0.3
+EXPANDRIGID 128 8
+ROTATERIGID 128 0.4
+TRANSLATERIGID 128 1.2
+PERCOLATE 8 0.01
